@@ -5,3 +5,6 @@ vehicle=raw_input('What is vehicle?')
 yourName='BoBo'
 diary='Today is '+today+' '+yourName+' want to go to shopping'+','+yourName+' go to shopping by '+vehicle
 print diary
+
+print 'Please Input a word:'
+print (input())
