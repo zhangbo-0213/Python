@@ -1,7 +1,7 @@
 # -*- coding: cp936 -*-
 import random
 
-print 'random.uniform(10,20)'              #输出范围内的随机小数
+print 'random.uniform(10,20)'           #输出范围内的随机小数
 print random.uniform(10,20)      #17.749276658
 print 'random.uniform(20,10)'  
 print random.uniform(20,10)      #11.9747960764
@@ -21,11 +21,11 @@ print 'Guess What I Think?'
 answer=input()
 while(answer!=result):
     if(answer>result):
-        print 'Your answer is too big,try a small one:'
+        print '%d is too big,try a small one:' % answer
         answer=input()
     if(answer<result):
-        print 'Your answer is too small,try a big one:'
+        print '%d is too small,try a big one:' % answer
         answer=input()
-print 'you got it,result is '
-print result
+print 'you got it,result is  %d' % result
+
 
