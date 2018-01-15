@@ -38,6 +38,12 @@ def RoundKickOrSave(str_kickOrSave,num_math):
             print('Com Win')
             com_score+=1
     print '=====Round %d Score,You:%d VS Com:%d=====' %(num_math,you_score,com_score)
+    if(you_score>com_score):
+        print '=====YOU WIN====='
+    elif(you_score<com_score):
+        print '=====YOU LOSE====='
+    else:
+        print '=====EQUAL====='
 
 #RoundKickOrSave('Kick',1)
         
