@@ -1,4 +1,4 @@
-# -*- coding: cp936 -*-
-places=['武昌','汉口','汉阳']
+# -*- coding: utf-8 -*-
+places=['姝︽槍','姹夊彛','姹夐槼']
 for city in places:
-    print city+'是武汉的三镇之一\n'
+    print city+'鏄姹夌殑涓夐晣涔嬩竴\n'

@@ -1,4 +1,5 @@
+# -*- coding: utf-8 -*-
 print 'Hello world'
-print '我是MajorTom'
+print '浣犲ソ,MajorTom'
 print ' '
-print '现在是2018'
+print '2018'
