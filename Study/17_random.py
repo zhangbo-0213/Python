@@ -16,6 +16,14 @@ print random.randrange(0,10,2)    #(0,2,4,6,8) 6
 print 'random.randint(0,5)'                  #输出范围内的整数，包括上下限
 print random.randint(0,5)            #3
 
+random.seed(10)
+print 'Random number with seed 10:',random.random()
+
+random.seed(10)
+print 'Random number with seed 10:',random.random()
+
+random.seed(10)
+print 'Random number with seed 10:',random.random()
 result=random.randint(0,100)
 print 'Guess What I Think?'
 answer=input()
