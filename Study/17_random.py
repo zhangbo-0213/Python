@@ -16,6 +16,7 @@ print random.randrange(0,10,2)    #(0,2,4,6,8) 6
 print 'random.randint(0,5)'                  #输出范围内的整数，包括上下限
 print random.randint(0,5)            #3
 
+#设置随机种子，同一个随机种子下得到的随机值相同，通常在调用随机函数前设置随机种子
 random.seed(10)
 print 'Random number with seed 10:',random.random()
 
