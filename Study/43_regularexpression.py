@@ -80,7 +80,7 @@ else:
 
 text3='site sea sue sweet see case sse ssee loses'
 print text3+' 中以s开头 和 s结尾的一行'
-m=re.findall(r'^s.*$',text3)
+m=re.findall(r'^s.*s$',text3)
 if m:
     print m
 else:
