@@ -26,6 +26,7 @@ print(result.span())
 
 #泛匹配
 result=re.match('^Hello.*Demo$',content)
+print(type(result))
 print(result.group())
 #输出
 #Hello 123 4567 World_This is a Regex Demo
@@ -98,6 +99,7 @@ result=re.match('Hello.*?(\d+).*?Demo',content)
 print(result)
 #输出 None
 result=re.search('Hello.*?(\d+).*?Demo',content)
+print(type(result))
 print(result)
 print(result.group(1))
 #输出
@@ -402,6 +404,9 @@ content='''<ul class="list-col list-col5 list-express slide-item">
                 <p class="abstract">'''
 pattern=re.compile('<li.*?cover.*?href="(.*?)".*?title="(.*?)">.*?src="(.*?)"\sclass.*?more-meta.*?author">(.*?)</span>.*?year">(.*?)</span>',re.S)
 result=re.findall(pattern,content)
+print(type(result))
+print(result)
+
 for item in result:
     link,title,img,author,time=item
     re.sub('\s*',"",author)
@@ -411,3 +416,4 @@ for item in result:
     print("img:"+img)
     print("author:"+author)
     print("time:"+time)
+
