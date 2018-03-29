@@ -38,8 +38,8 @@
       <file leaf-file-name="03_Requests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03_Requests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4628">
-              <caret line="180" column="60" lean-forward="false" selection-start-line="180" selection-start-column="60" selection-end-line="180" selection-end-column="60" />
+            <state relative-caret-position="272">
+              <caret line="182" column="19" lean-forward="true" selection-start-line="182" selection-start-column="19" selection-end-line="182" selection-end-column="19" />
               <folding>
                 <element signature="e#79#94#0" expanded="true" />
               </folding>
@@ -50,8 +50,8 @@
       <file leaf-file-name="04_re_regular_expression.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04_re_regular_expression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10842">
-              <caret line="418" column="0" lean-forward="false" selection-start-line="418" selection-start-column="0" selection-end-line="418" selection-end-column="0" />
+            <state relative-caret-position="260">
+              <caret line="205" column="0" lean-forward="false" selection-start-line="205" selection-start-column="0" selection-end-line="213" selection-end-column="55" />
               <folding>
                 <element signature="e#36#45#0" expanded="true" />
               </folding>
@@ -59,11 +59,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05_BeautifulSoup.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="05_BeautifulSoup.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05_BeautifulSoup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="141" column="42" lean-forward="false" selection-start-line="141" selection-start-column="42" selection-end-line="141" selection-end-column="42" />
+            <state relative-caret-position="4576">
+              <caret line="176" column="27" lean-forward="true" selection-start-line="176" selection-start-column="27" selection-end-line="176" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06_PyQuery.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06_PyQuery.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyquery_test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyquery_test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -72,8 +92,8 @@
       <file leaf-file-name="beautifulsoup_test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beautifulsoup_test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            <state relative-caret-position="260">
+              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -105,6 +125,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -117,6 +138,8 @@
         <option value="$PROJECT_DIR$/04_re_regular_expression.py" />
         <option value="$PROJECT_DIR$/beautifulsoup_test.html" />
         <option value="$PROJECT_DIR$/05_BeautifulSoup.py" />
+        <option value="$PROJECT_DIR$/pyquery_test.html" />
+        <option value="$PROJECT_DIR$/06_PyQuery.py" />
       </list>
     </option>
   </component>
@@ -158,6 +181,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,25 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05_BeautifulSoup">
-    <configuration name="01_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ModuleStudy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_selenium.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.06_PyQuery">
     <configuration name="02_Urllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,20 +268,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="06_PyQuery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ModuleStudy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_PyQuery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.01_selenium" />
-      <item index="1" class="java.lang.String" itemvalue="Python.02_Urllib" />
-      <item index="2" class="java.lang.String" itemvalue="Python.03_Requests" />
-      <item index="3" class="java.lang.String" itemvalue="Python.04_re_regular_expression" />
-      <item index="4" class="java.lang.String" itemvalue="Python.05_BeautifulSoup" />
+      <item index="0" class="java.lang.String" itemvalue="Python.02_Urllib" />
+      <item index="1" class="java.lang.String" itemvalue="Python.03_Requests" />
+      <item index="2" class="java.lang.String" itemvalue="Python.04_re_regular_expression" />
+      <item index="3" class="java.lang.String" itemvalue="Python.05_BeautifulSoup" />
+      <item index="4" class="java.lang.String" itemvalue="Python.06_PyQuery" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.05_BeautifulSoup" />
-        <item index="1" class="java.lang.String" itemvalue="Python.04_re_regular_expression" />
-        <item index="2" class="java.lang.String" itemvalue="Python.03_Requests" />
-        <item index="3" class="java.lang.String" itemvalue="Python.02_Urllib" />
-        <item index="4" class="java.lang.String" itemvalue="Python.01_selenium" />
+        <item index="0" class="java.lang.String" itemvalue="Python.06_PyQuery" />
+        <item index="1" class="java.lang.String" itemvalue="Python.05_BeautifulSoup" />
+        <item index="2" class="java.lang.String" itemvalue="Python.04_re_regular_expression" />
+        <item index="3" class="java.lang.String" itemvalue="Python.03_Requests" />
+        <item index="4" class="java.lang.String" itemvalue="Python.02_Urllib" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +316,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.100446425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.057098765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03549383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -313,22 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/re_test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cookie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_BeautifulSoup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -715,12 +723,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_Urllib.py">
@@ -733,9 +738,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/beautifulsoup_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/re_test.html">
@@ -746,38 +754,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_re_regular_expression.py">
+    <entry file="file://$PROJECT_DIR$/cookie.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10842">
-          <caret line="418" column="0" lean-forward="false" selection-start-line="418" selection-start-column="0" selection-end-line="418" selection-end-column="0" />
-          <folding>
-            <element signature="e#36#45#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03_Requests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4628">
-          <caret line="180" column="60" lean-forward="false" selection-start-line="180" selection-start-column="60" selection-end-line="180" selection-end-column="60" />
+        <state relative-caret-position="272">
+          <caret line="182" column="19" lean-forward="true" selection-start-line="182" selection-start-column="19" selection-end-line="182" selection-end-column="19" />
           <folding>
             <element signature="e#79#94#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beautifulsoup_test.html">
+    <entry file="file://$PROJECT_DIR$/04_re_regular_expression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="260">
+          <caret line="205" column="0" lean-forward="false" selection-start-line="205" selection-start-column="0" selection-end-line="213" selection-end-column="55" />
+          <folding>
+            <element signature="e#36#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05_BeautifulSoup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="141" column="42" lean-forward="false" selection-start-line="141" selection-start-column="42" selection-end-line="141" selection-end-column="42" />
+        <state relative-caret-position="4576">
+          <caret line="176" column="27" lean-forward="true" selection-start-line="176" selection-start-column="27" selection-end-line="176" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyquery_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_PyQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="33" />
           <folding />
         </state>
       </provider>
